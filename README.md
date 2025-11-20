@@ -1,1 +1,1 @@
-# Excel-Full-project
+This project is a complete Excel-based data analysis workflow built using a dataset of bike buyers. It showcases essential data analytics skills, including data cleaning, transformation, pivot table reporting, and dashboard creation
